@@ -59,21 +59,9 @@
 
 ---
 
-## 🏆 GitHub Trophies:
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Trophies" />
-</p>
-
----
-
 ## 💬 Favorite DEV Quote:
 
 > *"When I was at what I would consider the peak of my abilities, I had extremely trustworthy intuition. I would do things and they would just turn out right."*  
 > — **L. Peter Deutsch**
 
-<br />
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-</p>
